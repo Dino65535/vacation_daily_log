@@ -2,4 +2,7 @@
 練習使用GitHub &amp; 紀錄寫的code
 
 
-.....test
+1
+2
+3
+
