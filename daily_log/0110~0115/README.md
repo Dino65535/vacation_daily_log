@@ -3,7 +3,7 @@
 
 * 安裝.NET反編譯器 [dnSpy](https://github.com/dnSpy/dnSpy)
 
-* 建立相關環境(VS、VS Code)
+* 建立相關環境 (VS、VS Code)
 
 * 成功實作 Hello World 的 Plugin
 
