@@ -1,10 +1,17 @@
-1/10
->> 了解什麼是BepInEx
+## 1/10
+* 了解什麼是[BepInEx](https://github.com/BepInEx/BepInEx/releases)
 
->> 安裝.NET反編譯器(dnSpy)
+* 安裝.NET反編譯器[dnSpy](https://github.com/dnSpy/dnSpy)
 
->> 建立相關環境(VS、VS Code)
+* 建立相關環境(VS、VS Code)
 
->> 成功實作Hello World的Plugin
+* 成功實作 Hello World 的 Plugin
 
-1/11
+## 1/11
+* 安裝 Git
+
+* 熟悉 Git 與 cmd 常用指令
+
+* 成功實行 push 和 pull 等操作
+
+* 學習 README 書寫語法[markdown](https://github.com/guodongxiaren/README#readme)
