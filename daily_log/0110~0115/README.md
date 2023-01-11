@@ -7,6 +7,8 @@
 
 * 成功實作 Hello World 的 Plugin
 
+![插件圖片](https://github.com/Dino65535/vacation_daily_log/blob/19b3bf88fd65f3bdbde4298da08274995631ed45/daily_log/0110~0115/HelloWorldPlugin.png "Hello World Plugin")
+
 ## 1/11 WED
 * 安裝 Git
 
