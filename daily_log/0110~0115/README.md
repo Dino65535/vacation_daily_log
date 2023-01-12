@@ -19,3 +19,12 @@
 * 學習 README 書寫語法 [markdown](https://github.com/guodongxiaren/README#readme)
 
 ## 1/12 THU
+* 創建 & 編寫配置文件 ![文件圖片](https://github.com/Dino65535/vacation_daily_log/blob/5133508bb42b880d9ca70b44caec8f9682d50f2b/daily_log/0110~0115/ConfigEntry.png "Plugin  .cfg")
+
+* 利用 dnSPY 反編譯 .NET 檔案(用自己寫的 Plugin) ![反編譯圖片](https://github.com/Dino65535/vacation_daily_log/blob/5133508bb42b880d9ca70b44caec8f9682d50f2b/daily_log/0110~0115/dnSPY01.png "dnSPY decode")
+
+* 嘗試解讀遊戲的 Assembly-CSharp.dll 反編譯檔案，但有點複雜看不太懂
+
+* 考慮從別人寫的插件去反編譯解讀?
+
+## 1/13 FRI
