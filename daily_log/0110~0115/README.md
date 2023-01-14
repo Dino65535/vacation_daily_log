@@ -35,6 +35,6 @@
 * 逆向工程真的不簡單 :dizzy_face: :dizzy_face: 窩頭好痛
 
 ## 1/14 SAT
-* 持續解讀別人的原始碼 :persevere:
+* 持續解讀 KitchenLib 的原始碼，搭配一個用 KitchenLib 寫的插件 [Starting Meal Selector](https://github.com/propstg/plateup-starting-meal-selector) 
 
-* 嘗試寫一個測試用的 Menu，但沒成功
+* 嘗試寫一個測試用的 Menu，但沒成功 :persevere:
