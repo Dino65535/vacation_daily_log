@@ -33,3 +33,8 @@
 * 發現 workshop 有人寫了一個 [KitchenLib](https://github.com/KitchenMods/KitchenLib/) 用來讓人方便製作 Mod，看起來簡單一些。( [KitchenLib Wiki](https://github.com/KitchenMods/KitchenLib/wiki) )
 
 * 逆向工程真的不簡單 :dizzy_face: :dizzy_face: 窩頭好痛
+
+## 1/14 SAT
+* 持續解讀別人的原始碼 :persevere:
+
+* 嘗試寫一個測試用的 Menu，但沒成功
