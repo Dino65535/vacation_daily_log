@@ -38,3 +38,12 @@
 * 持續解讀 KitchenLib 的原始碼，搭配一個用 KitchenLib 寫的插件 [Starting Meal Selector](https://github.com/propstg/plateup-starting-meal-selector) 
 
 * 嘗試寫一個測試用的 Menu，但沒成功 :persevere:
+
+## 1/15 SUN
+* 成功添加一個測試用的 Menu  
+![Menu圖片](https://github.com/Dino65535/vacation_daily_log/blob/ae73a77fa67fc03cfd0a22e5379160e12b992306/daily_log/0110~0115/TestMenu.png)
+![AddLabel](https://github.com/Dino65535/vacation_daily_log/blob/ae73a77fa67fc03cfd0a22e5379160e12b992306/daily_log/0110~0115/AddLabel.png)
+
+* 發現 KitchenLib 的 Wiki 中的 Menu 程式碼似乎有 Bug，直接複製編譯器會報錯，經過一番更改後雖然能讓編譯器不報錯並且成功建置，但在遊戲內仍然沒有成功，不太確定是哪方面出了問題，持續研究
+
+* 或者 issue 問一下作者?
