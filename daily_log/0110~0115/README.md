@@ -33,3 +33,8 @@
 * 發現 workshop 有人寫了一個 [KitchenLib](https://github.com/KitchenMods/KitchenLib/) 用來讓人方便製作 Mod，看起來簡單一些。( [KitchenLib Wiki](https://github.com/KitchenMods/KitchenLib/wiki) )
 
 * 逆向工程真的不簡單 :dizzy_face: :dizzy_face: 窩頭好痛
+
+## 1/14 SAT
+* 持續解讀 KitchenLib 的原始碼，搭配一個用 KitchenLib 寫的插件 [Starting Meal Selector](https://github.com/propstg/plateup-starting-meal-selector) 
+
+* 嘗試寫一個測試用的 Menu，但沒成功 :persevere:
