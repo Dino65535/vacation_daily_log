@@ -14,7 +14,7 @@
 * 今日進度 : pdf 44頁 
 
 ## 1/19 THU
-* 解了兩題 Uva (11172, 11559)
+* 解了兩題 Uva (11172, 11559)，我的 [uHunt](https://uhunt.onlinejudge.org/id/1553918)
 
 * 跟教授和學長 meeting，關於 CDX 和建立虛擬機的使用方法
 
